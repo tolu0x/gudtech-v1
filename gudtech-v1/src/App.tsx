@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <Navbar />
-    <main className="pt-72 w-3/5 mx-auto">
+    <main className="w-3/5 mx-auto">
       <Search />
     </main>
     </>
